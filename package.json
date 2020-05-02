@@ -1,6 +1,6 @@
 {
   "name": "vue-plyr",
-  "version": "6.0.4",
+  "version": "6.0.5",
   "description": "A vue component for the plyr video & audio player.",
   "author": {
     "name": "Gabe Dunn",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "dependencies": {
-    "plyr": "^3.5.10",
+    "plyr": "^3.6.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
@@ -52,6 +52,6 @@
     "rollup"
   ],
   "license": "MIT",
-  "repository": "github:redxtech/vue-plyr",
+  "repository": "github:polarAli/vue-plyr",
   "ssr": "./dist/vue-plyr.ssr.js"
 }
